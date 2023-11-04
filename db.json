@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Nrupul dev",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-23",
+      "profession": "Backend",
+      "id": 2
+    },
+    {
+      "name": "Rajneesh yadav",
+      "age": 8,
+      "place": "lucknow",
+      "batch_name": "WEB-22",
+      "profession": "FSD",
+      "id": 4
+    },
+    {
+      "name": "himanshu",
+      "age": "23",
+      "place": "Delhi",
+      "batch_name": "WEB-14",
+      "profession": "Backend",
+      "id": 5
+    },
+    {
+      "name": "rai",
+      "age": "23",
+      "place": "delhi",
+      "batch_name": "WEB-15",
+      "profession": "Frontend",
+      "id": 6
+    },
+    {
+      "name": "Nrupul dev",
+      "age": "4",
+      "place": "Delhi",
+      "batch_name": "WEB-14",
+      "profession": "Backend",
+      "id": 7
+    },
+    {
+      "name": "rai",
+      "age": "67",
+      "place": "delhi",
+      "batch_name": "WEB-15",
+      "profession": "Student",
+      "id": 8
+    },
+    {
+      "name": "Nrupul dev",
+      "age": "43",
+      "place": "delhi",
+      "batch_name": "WEB-13",
+      "profession": "FSD",
+      "id": 9
+    }
+  ]
+}
